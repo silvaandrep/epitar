@@ -1,8 +1,12 @@
-ETAPAS:
-1 CONCEPÇÃO
-1.1 Visão geral do software
-  Sistema de Gerenciamento de Tarefas
-1.2 Perfil dos usuários
+PROJETO Epitar - Sistema de Gerenciamento de Tarefas
+CONCEPÇÃO
+Visão geral do software
+  Sitema de gerencimento de tarefas pra equipes de trabalho, que permite ao líder administrar as tarefas entre os integrantes
+Steakholders
+  Usuários
+  Equipe de desenvolvimento
+Perfil dos usuários
   Líder de equipe
   Integrante da equipe
-1.3 Lista inicial dos requisitos de usuários
+Lista inicial dos requisitos de usuários
+  
