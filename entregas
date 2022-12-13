@@ -1,3 +1,13 @@
+Exercício Aula 01:
+• Montem equipes de 4 alunos:
+• Cada equipe deve:
+– Preparar uma proposta de projeto.
+– Escreva uma visão geral do sistema com uma lista de requisitos do
+usuário
+– Identificar os interessados no sistema e seus pontos de vista
+(necessidades / objetivos)
+
+Pontos que precisam ser identificados:
 • Qual o problema a ser resolvido? (Identificar a Fronteira do
 problema)
 • Onde está o problema? (Compreender o Domínio do
@@ -10,3 +20,7 @@ Cenários)
 • Quando necessita ser resolvido? (Identificar Restrições ao
 desenvolvimento)
 • O que pode nos impedir de resolver? (Identificar Riscos)
+• Existe alguma solução (pacote) disponível?
+• Quais são os recursos (livros, sites, lei) relacionados à aplicação
+em discussão?
+• Existe a possibilidade de reutilizar os artefatos (software)?
